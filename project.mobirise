@@ -1,0 +1,1618 @@
+{
+  "settings": {
+    "name": "Site-07-20_1635",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#fffefe",
+        "#fff0f0"
+      ]
+    },
+    "versionFirst": "4.0.12",
+    "uniqCompNum": 34,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Главная",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "B": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/jerusalem-img-1399x933.png",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "<b>Иерусалим</b>",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"transfer.html\" data-toolbar=\"-mbrBtnMove\">Трансферы</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"tour.html\" data-toolbar=\"-mbrBtnMove\">Экскурсии</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/tel-aviv-promenade-1400x787.png",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "<b>Тель-Авив</b>",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"transfer.html\" data-toolbar=\"-mbrBtnMove\">Трансферы</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"tour.html\" data-toolbar=\"-mbrBtnMove\">Экскурсии</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1124.png",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<b>Эйлат</b>",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"transfer.html\" data-toolbar=\"-mbrBtnMove\">Трансферы</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"tour.html\" data-toolbar=\"-mbrBtnMove\">Экскурсии</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-0",
+          "articleLayout": false
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".navbar-brand": {
+              "font-size": "30px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "menu-1",
+          "_params": {
+            "hamburgerColor": "#000000",
+            "sticky": true,
+            "transparent": true,
+            "color": "#ffffff",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-travel-281x281.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://russia323.wordpress.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"tour.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Travel Nation Israel</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Главная</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"company.html\">Кто мы?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"offer.html\">Оферта</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Приветствие!",
+          "caption": "<p>Посещение Израиля, это захватывающий дух момент в жизни каждого человека! История и тени прошлого будут сопровождать вас буквально на каждом шагу вашего путешествия! Эпизоды истории будут оживать в вашем воображение  где бы вы не находились!</p><p>Наш тур будет проходить через много мест и городов. Мы начинаем наш тур из Эйлата - самая южная точка Израиля и далее на север. Проезжая по пустыне Арава, мы увидим пустынные пейзажи и сельскохозяйственные угодья. Мы спустимся ниже уровня мирового океана более чем 400 метров и встретимся с удивительным Мертвым морем. Проедем Масаду, Эйн-Геди, Кумран и остановимся на месте крещения Иисуса Христа. После этого мы поднимемся в Иерусалим и Вифлеем. Мы посетим Галилейскую долину, Тиберианское море (озеро Кинерет), Назарет. Мы будем следовать за священниками христианских церквей и монастырей, таких как Церковь Гроба Господня, Церковь Рождества Христова. Нам откроется прекрасный вид с горы Табор и посмотрим на Иерусалим как Иесус когда-то смотрел с Оливковой горы. Мы предлагаем незабываемый захватывающий тур, который только первое приветствие Святой земли, и она будет звать Вас посетить её снова и снова!</p>"
+        },
+        {
+          "items": [
+            {
+              "text": "<i>“Посещение Иерусалима это очень волноющий момент в жизни, и я очень рада что сделала это с Трэвэл Нэйшн!”</i>",
+              "authorName": "Анастасия Е.",
+              "authorBio": "Санкт Петербург"
+            },
+            {
+              "text": "<i>“Я очень волновалась что поездка будет утомительной, но гид Николай настолько захватил моё внимание, что было ощущение будто я погрузилась в машину времени, и она перенесёт меня сейчас в старый Иерусалим, во времена Иесуса Христа....”</i>",
+              "authorName": "Наталья К.",
+              "authorBio": "Москва"
+            },
+            {
+              "text": "<i>“Спасибо организаторам поездки, наконец моя мечта сбылась! Невероятные эмоции и впечатления, которые остануться со мной на всю мою жизнь! Спасибо!”</i>",
+              "authorName": "Элла Ф.\n",
+              "authorBio": "Екатеринбург"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<i>“Посещение Иерусалима это очень волноющий момент в жизни, и я очень рада что сделала это с Трэвэл Нэйшн!”</i>",
+              "authorName": "Анастасия Е.",
+              "authorBio": "Санкт Петербург"
+            },
+            {
+              "text": "<i>“Я очень волновалась что поездка будет утомительной, но гид Николай настолько захватил моё внимание, что было ощущение будто я погрузилась в машину времени, и она перенесёт меня сейчас в старый Иерусалим, во времена Иесуса Христа....”</i>",
+              "authorName": "Наталья К.",
+              "authorBio": "Москва"
+            },
+            {
+              "text": "<i>“Спасибо организаторам поездки, наконец моя мечта сбылась! Невероятные эмоции и впечатления, которые остануться со мной на всю мою жизнь! Спасибо!”</i>",
+              "authorName": "Элла Ф.\n",
+              "authorBio": "Екатеринбург"
+            }
+          ],
+          "_anchor": "testimonials1-5",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "Что говорят о наших турах?"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "alt": "",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1124-800x449.png",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1124.png",
+                "active": false
+              },
+              {
+                "alt": "",
+                "thumb": "@PROJECT_PATH@/assets/images/tel-aviv-promenade-1400x787-800x449.png",
+                "image": "@PROJECT_PATH@/assets/images/tel-aviv-promenade-1400x787.png",
+                "active": false
+              },
+              {
+                "alt": "",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1400x788-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/img-1400x788.png",
+                "active": false
+              },
+              {
+                "alt": "",
+                "thumb": "@PROJECT_PATH@/assets/images/jerusalem-img-1400x1006-800x574.png",
+                "image": "@PROJECT_PATH@/assets/images/jerusalem-img-1400x1006.png",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/photo-8-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-8.jpg"
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/photo-11-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-11.jpg"
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/photo-12-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-12.jpg"
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/photo-13-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-13.jpg"
+              }
+            ],
+            "bgColor": "#efefef",
+            "showBullets": true
+          },
+          "_anchor": "gallery1-7",
+          "articleLayout": false
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Свяжитесь с нами!",
+          "form": {
+            "action": "rainesh2002@hotmail.com",
+            "alerts": {
+              "success": "Ваше сообщение успешно отправлено!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Имя*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "contacts2-d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "placeId": "ChIJd782TPZxABUR9W7AkZliC4A",
+              "address": "TRAVEL NATION ISRAEL, Eilat, Habaz 2 Israel, 8851037",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br>TRAVEL NATION ISRAEL, Eilat, Habaz 2 Israel, 8851037<br>Часы работы&nbsp;<br>Воскресенье - Четверг: 09:00 - 20:00 \n<br>Пятница: 09:00 - 16:00 \n<br>Суббота: 12:00 - 20:00<br><br><b>Телефоны</b><br>Israel +972 (0) 86199765; <br>Poland +48-22-125-3191; <br>Russia: +7-499-609-1512; <br>FAX: +972 (0) 89188043; <br>E-mail/Skype: tn.isr@outlook.com; WhatsApp/Mobile: +972586907505;<br>",
+          "text2": "<ul><li><b>Ссылки</b></li><li><a href=\"http://yhukho.com\" target=\"_blank\">Travel Nation Israel</a></li><li><a href=\"https://polin4you.com\" target=\"_blank\">Polin4You</a></li><li><a href=\"https://www.facebook.com/travelnationisrael/\" target=\"_blank\">Facebook</a></li></ul>"
+        }
+      ]
+    },
+    "company.html": {
+      "settings": {
+        "title": "Кто мы?",
+        "order": 3
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".navbar-brand": {
+              "font-size": "30px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "menu-8",
+          "_params": {
+            "hamburgerColor": "#000000",
+            "sticky": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-travel-281x281.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://russia323.wordpress.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "active": true,
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"tour.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Travel Nation Israel</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Главная</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"company.html\">Кто мы?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"offer.html\">Оферта</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-f",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showTitles": true,
+            "showCaptions": true
+          },
+          "title1": "Компания",
+          "caption1": "Наша компания работает на рынке туристических и транспортных услуг с 2012 года. Основными направлениями деятельности компании является двусторонний туризм стран Россия, Польша, Словакия и Израиль. Поскольку вы читаете эти строки на Русском языке, это значит что вы хотите посетить Израиль, тогда этот сайт для вас, и не важно гражданином какой страны вы являетесь! Если же вы наш соотечественник и проживаете в Израиле, тогда вам будет интересно ознакомится с информацией о наших турах из Израиля в другие страны на <a href=\"https://yhukho.com\" target=\"_blank\">этом сайте</a>. &nbsp;Головной офис компании находиться в городе Эйлат, Израиль.&nbsp;<br>У нас Эйлате круглый год светит солнце, так что хорошая погода вам гарантирована! Эйлат, это возможность познакомиться с новыми интересными людьми из разных частей света! Вечером можно отдохнуть в ресторане, кафе или баре на берегу Красного моря, и ощутить еще один незабываемый день в Эйлате! \n<br>Увидимся в Эйлате!&nbsp;<br>",
+          "title2": "Кто за этим стоит?",
+          "caption2": "Здравствуйте, меня зовут Борис Райнеш. основная масса подготовленного на этом и других наших сайтах материала, является частью моего труда. Составление программ путешествий, посещение мест, которые вы будете посещать, всё это часть моего ежедневного труда. Я очень люблю своё дело, люблю страны с которыми работаю, но самое интересное для меня в жизни, это связь стран, людей и народов проживающих в этих странах. Общение с людьми, изучение их культурых традиций, самая интересная часть моей работы! Сам я родился в 1971 году, в Алтайском крае, в посёлке химиков Яровое. В раннем возрасте мои родители переехали в Крым, там я рос, учился, оттуда, из Севастополя, был призван в армию. После распада Советского Союза, я решил уехать в Израиль, где и проживаю сегодня. Израиль, страна с удивительной, историей длинной в тысячилетия! Разнообразная природа, от пустыни на юге, и до лесистых холмов на севере с водопадами чистой воды, три моря, дом для четырёх религий и, как нигде, смешание культур и традиций. Приезжайте к нам в Израиль, и мы покажем вам часть нашей души, то чем мы живём, и то, что в мире называется «Святая Земля»",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app."
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            }
+          },
+          "_anchor": "social-buttons1-h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "counters": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Поделитесь этой страницей"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Свяжитесь с нами!",
+          "form": {
+            "action": "rainesh2002@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Имя*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "contacts2-d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "placeId": "ChIJd782TPZxABUR9W7AkZliC4A",
+              "address": "TRAVEL NATION ISRAEL, Eilat, Habaz 2 Israel, 8851037",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br>TRAVEL NATION ISRAEL, Eilat, Habaz 2 Israel, 8851037<br>Часы работы&nbsp;<br>Воскресенье - Четверг: 09:00 - 20:00 \n<br>Пятница: 09:00 - 16:00 \n<br>Суббота: 12:00 - 20:00<br><br><b>Телефоны</b><br>Israel +972 (0) 86199765; <br>Poland +48-22-125-3191; <br>Russia: +7-499-609-1512; <br>FAX: +972 (0) 89188043; <br>E-mail/Skype: tn.isr@outlook.com; WhatsApp/Mobile: +972586907505;<br>",
+          "text2": "<ul><li><b>Ссылки</b></li><li><a href=\"http://yhukho.com\" target=\"_blank\">Travel Nation Israel</a></li><li><a href=\"https://polin4you.com\" target=\"_blank\">Polin4You</a></li><li><a href=\"https://www.facebook.com/travelnationisrael/\" target=\"_blank\">Facebook</a></li></ul>"
+        }
+      ]
+    },
+    "offer.html": {
+      "settings": {
+        "title": "Оферта",
+        "order": 4
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".navbar-brand": {
+              "font-size": "30px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "menu-9",
+          "_params": {
+            "hamburgerColor": "#000000",
+            "sticky": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-travel-281x281.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://russia323.wordpress.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"tour.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Travel Nation Israel</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Главная</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"company.html\">Кто мы?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"offer.html\">Оферта</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "SPAN": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "pricing-table1-a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#dddddd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "bg-warning",
+            "showButtons": true,
+            "secondType": "bg-warning",
+            "thirdType": "bg-warning",
+            "fourthType": "bg-warning"
+          },
+          "title1": "Иерусалим \"стандарт\"",
+          "currency1": "Поездка на один день с посещением Место крещения Иесуса Христа, Храма гроба Господня, Невского Подворья, Стены плача. Прогулка по трём кварталам старого города, включая район древне Римского периода Кардо, и еврейского квартала. Выезд в 6:00, возвращение в 20:00. Группа не менее 18 человек.",
+          "price1": "",
+          "period1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Река Иордан</b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Невское подворье</b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Храм гроба Господня\n</b></li><li class=\"list-group-item\"><b>Стена Плача\n</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5E84E5ANRV76\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Заказать</a>",
+          "title2": "Иерусалим \"расширеный\"",
+          "currency2": "",
+          "price2": "Поездка на один день с посещением Место крещения Иесуса Христа, Масличная гора с посещение усыпальницы Девы Марии, Храма гроба Господня, Невского Подворья, Стены плача. Прогулка по трём кварталам старого города, включая район древне Римского периода Кардо, и еврейского квартала. Выезд в 6:00, возвращение в 22:00. Группа не менее 18 человек",
+          "period2": "",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Река Иордан\n</b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Масличная Гора\n</b></li><li class=\"list-group-item\"><b>Усыпальница Девы Марии\n</b></li><li class=\"list-group-item\"><b>Невское подворье\n</b></li><li class=\"list-group-item\"><b>Храм гроба Господня\n</b></li><li class=\"list-group-item\"><b>Стена Плача\r</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=4A6AFMTGUADFG\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p>Заказать</p></a> ",
+          "title3": "Иерусалим \"премиум\"",
+          "currency3": "",
+          "price3": "Поездка на один день с посещением Место крещения Иесуса Христа, Масличная гора с посещение усыпальницы Девы Марии, Храма гроба Господня, Невского Подворья, Стены плача. Прогулка по трём кварталам старого города, включая район древне Римского периода Кардо, и еврейского квартала. На обратном пути заезд на купание в Мёртвом Море. Выезд в 5:00, возвращение в 22:00. Группа не менее 18 человек.",
+          "period3": "",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Река Иордан\n</b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Масличная Гора\n</b></li><li class=\"list-group-item\"><b>Усыпальница Девы Марии\n</b></li><li class=\"list-group-item\"><b>Невское подворье\n</b></li><li class=\"list-group-item\"><b>Храм гроба Господня\n</b></li><li class=\"list-group-item\"><b>Стена Плача\n</b></li><li class=\"list-group-item\"><b>Мёртвое Море</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=SBX99QPLFUMFJ\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Заказать</a>",
+          "title4": "Иерусалим и Вифлеем  \"ультима\"",
+          "currency4": "",
+          "price4": "",
+          "period4": "Поездка на один день с посещением Место крещения Иесуса Христа, Посещение храма Рождества Христова в Вифлееме, Масличная гора с посещение усыпальницы Девы Марии, Храма гроба Господня, Невского Подворья, Стены плача. Прогулка по трём кварталам старого города, включая район древне Римского периода Кардо, и еврейского квартала. На обратном пути заезд на купание в Мёртвом Море. Выезд в 5:00, возвращение в 22:00. Группа не менее 18 человек.",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Река Иордан\n</b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Масличная Гора\n</b></li><li class=\"list-group-item\"><b>Храм Рождества в Вифлееме\n</b></li><li class=\"list-group-item\"><b>Усыпальница Девы Марии\n</b></li><li class=\"list-group-item\"><b>Невское подворье\n</b></li><li class=\"list-group-item\"><b>Храм гроба Господня\n</b></li><li class=\"list-group-item\"><b>Стена Плача\n</b></li><li class=\"list-group-item\"><b>Мёртвое Море</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=MDCA4GUMSK3QJ\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Заказать</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "UL": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "pricing-table1-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#dddddd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "bg-primary",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "bg-primary"
+          },
+          "title1": "Мицпе Рамон, Авдат, Негев",
+          "currency1": "",
+          "price1": "",
+          "period1": "Караванный путь благовоний внесён в 2005 г. в список ЮНЕСКО на всей территории Израиля, где часть его, пролегавшего через Петра, Авдат, Мамшит и далее в Газу находится в Северном Негеве. Увидеть красоту пустыни Негев невозможно не посетив Кратер Рамон и Авдат. В конце насыщенного дня мы посетим виноградник где вы сможете продегустировать несколько видов вина из разных сортов винограда, выращенных в Израильской пустыне!",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Джипы по кратеру</b><br></li><li class=\"list-group-item\"><b>Авдат Набатейский</b></li><li class=\"list-group-item\"><b>Кармей Авдат, дегустация вина</b></li><li class=\"list-group-item\"><b>Обед</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PES6JCHY7D42U\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Заказать</a>",
+          "title2": "Масада",
+          "currency2": "",
+          "price2": "",
+          "period2": "Масада - крепость и дворец, символ свободы и памятник истории в списке ЮНЕСКО. Царь Ирод, римляне, и повстанцы - история двух вековой давности. Уникальный музей истории времени падения Иудейского царства. Резиденция царя Ирода не зря находилось в непосредственной близости от Мёртвого Моря, уже тогда люди знали о его целебных свойствах! Уникальный заповедник Эйн Геди с водопадами и озёрами пресной воды, уникальные растения и археологические памятники истории. Купание в Мёртвом Море так же не оставит вас равнодушным!",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Музей и парк Масада</b></li><li class=\"list-group-item\"><b>Заповедник Эйн Геди</b></li><li class=\"list-group-item\"><b>Мёртвое Море</b></li><li class=\"list-group-item\"><b>Обед</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=UTNPY94F22JP2\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Заказать</a>",
+          "title3": "Петра",
+          "currency3": "",
+          "price3": "",
+          "period3": "Петра является всемирным наследием ЮНЕСКО с 1985 г. и признана всеобщим голосованием одним из семи современных чудес света с 2007 г. Уникальный архитектурный памятник Набатейского царства, высеченный в камне и увековеченный в постройках Римского периода. Амфитеатр, колоннады, гробницы царей, улицы и площади, а также природная красота места, оставят неизгладимый след в вашем воспоминании.",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Петра</b><br></li><li class=\"list-group-item\"><b>Эль Хазна</b></li><li class=\"list-group-item\"><b>Акаба</b></li><li class=\"list-group-item\"><b>Обед</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EMGQJ9G2AGAPU\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Заказать</a>",
+          "title4": "Мёртвое Море",
+          "currency4": "",
+          "price4": "",
+          "period4": "Выезд на СПА Мёртвого моря - это уникальный случай комбинации отдыха, с лечебными процедурами и дальнейшим углублением в размышления и познание жизни в библейские времена. Вода и грязи Мёртвого Моря обладают целительными свойствами. Косметический эффект от воды и солей привёл к развитию отдельного направления в косметике, сделанной на основе солей мёртвого моря. Применяя грязевую процедуру, вы можете погрузиться в чтение книги на воде, или просто принимая солнечные ванны на берегу!",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">СПА гостиницы</b><br></li><li class=\"list-group-item\"><b>Обед</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\" https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=5JSE6Z28V9FPU\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Заказать</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-u",
+          "text": "<p>Вы можете пожелать другие варианты экскурсий или трансферов, для этого оставьте нам сообщение с помощью формы обратной связи. Пожалуйста, укажите как можно больше информации о том что вы желаете. Мы свяжемся с вами в ближайшее время для уточнения данных и дальнейшей процедуры заказа. Спасибо!</p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "form1-e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#dddddd",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Свяжитесь с нами!<br>",
+          "form": {
+            "action": "rainesh2002@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Имя*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "contacts2-d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "placeId": "ChIJd782TPZxABUR9W7AkZliC4A",
+              "address": "TRAVEL NATION ISRAEL, Eilat, Habaz 2 Israel, 8851037",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br>TRAVEL NATION ISRAEL, Eilat, Habaz 2 Israel, 8851037<br>Часы работы&nbsp;<br>Воскресенье - Четверг: 09:00 - 20:00 \n<br>Пятница: 09:00 - 16:00 \n<br>Суббота: 12:00 - 20:00<br><br><b>Телефоны</b><br>Israel +972 (0) 86199765; <br>Poland +48-22-125-3191; <br>Russia: +7-499-609-1512; <br>FAX: +972 (0) 89188043; <br>E-mail/Skype: tn.isr@outlook.com; WhatsApp/Mobile: +972586907505;<br>",
+          "text2": "<ul><li><b>Ссылки</b></li><li><a href=\"http://yhukho.com\" target=\"_blank\">Travel Nation Israel</a></li><li><a href=\"https://polin4you.com\" target=\"_blank\">Polin4You</a></li><li><a href=\"https://www.facebook.com/travelnationisrael/\" target=\"_blank\">Facebook</a></li></ul>"
+        }
+      ]
+    },
+    "transfer.html": {
+      "settings": {
+        "title": "Трансферы",
+        "order": 2
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "SPAN": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "pricing-table1-v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///C:/Users/Admin/AppData/Local/Mobirise.com/Mobirise/projectData/photo-3.jpg",
+            "bgColor": "#dddddd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "bg-warning",
+            "showButtons": true,
+            "secondType": "bg-warning",
+            "thirdType": "bg-warning",
+            "fourthType": "bg-warning"
+          },
+          "title1": "Индивидульный Эйлат",
+          "currency1": "$",
+          "price1": "80",
+          "period1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Частная машина&nbsp;</b></li><li class=\"list-group-item\"><b>Встреча с именем</b></li><li class=\"list-group-item\"><b>Аэропорт Овда</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EWZA528Y9TUKA\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Заказать</a>",
+          "title2": "Индивидульный Эйлат",
+          "currency2": "$",
+          "price2": "350",
+          "period2": "",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Частная машина&nbsp;\n</b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Встреча с именем</b><br></li><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Аэропорт Бен Гурион</b><br></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=MPK5G9S7GHK4N\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Заказать</a>",
+          "title3": "Индивидульный Эйлат",
+          "currency3": "$",
+          "price3": "400",
+          "period3": "",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Частная машина&nbsp;\n</b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Встреча с именем\n</b></li><li class=\"list-group-item\"><b>Тель-Авив</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RGXYQ7AA63M4N\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Заказать</a>",
+          "title4": "Индивидульный Эйлат",
+          "currency4": "$",
+          "price4": "350",
+          "period4": "",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Частная машина&nbsp;\n</b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Встреча с именем\r</b></li><li class=\"list-group-item\"><b>Иерусалим</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AVLHFF6U4XTSN\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Заказать</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".navbar-brand": {
+              "font-size": "30px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "menu-j",
+          "_params": {
+            "hamburgerColor": "#000000",
+            "sticky": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-travel-281x281.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://russia323.wordpress.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"tour.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Travel Nation Israel</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Главная</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"company.html\">Кто мы?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"offer.html\">Оферта</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-w",
+          "text": "<p>Вы можете пожелать другие варианты экскурсий или трансферов, для этого оставьте нам сообщение с помощью формы обратной связи. Пожалуйста, укажите как можно больше информации о том что вы желаете. Мы свяжемся с вами в ближайшее время для уточнения данных и дальнейшей процедуры заказа. Спасибо!</p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "form1-x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///C:/Users/Admin/AppData/Local/Mobirise.com/Mobirise/projectData/photo-3_1.jpg",
+            "bgColor": "#dddddd",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Свяжитесь с нами!<br>",
+          "form": {
+            "action": "rainesh2002@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Имя*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "contacts2-k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "placeId": "ChIJd782TPZxABUR9W7AkZliC4A",
+              "address": "TRAVEL NATION ISRAEL, Eilat, Habaz 2 Israel, 8851037",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br>TRAVEL NATION ISRAEL, Eilat, Habaz 2 Israel, 8851037<br>Часы работы&nbsp;<br>Воскресенье - Четверг: 09:00 - 20:00 \n<br>Пятница: 09:00 - 16:00 \n<br>Суббота: 12:00 - 20:00<br><br><b>Телефоны</b><br>Israel +972 (0) 86199765; <br>Poland +48-22-125-3191; <br>Russia: +7-499-609-1512; <br>FAX: +972 (0) 89188043; <br>E-mail/Skype: tn.isr@outlook.com; WhatsApp/Mobile: +972586907505;<br>",
+          "text2": "<ul><li><b>Ссылки</b></li><li><a href=\"http://yhukho.com\" target=\"_blank\">Travel Nation Israel</a></li><li><a href=\"https://polin4you.com\" target=\"_blank\">Polin4You</a></li><li><a href=\"https://www.facebook.com/travelnationisrael/\" target=\"_blank\">Facebook</a></li></ul>"
+        }
+      ]
+    },
+    "tour.html": {
+      "settings": {
+        "title": "Экскурсии",
+        "order": 1
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".navbar-brand": {
+              "font-size": "30px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "menu-l",
+          "_params": {
+            "hamburgerColor": "#000000",
+            "sticky": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-travel-281x281.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://russia323.wordpress.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"tour.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Travel Nation Israel</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Главная</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"company.html\">Кто мы?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"offer.html\">Оферта</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            }
+          },
+          "_anchor": "msg-box4-n",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/jerusalem-church-of-the-holly-sepulture-compressed-1400x787.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Иерусалим",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Иерусалим! Город трёх религий, тысячелетней истории и столица Израиля. Голгофа, храм гроба Господня, Стена Плача и улочки четырёх кварталов старого Иерусалима. В этом городе смешались культуры многих народов мира, История древнего Израиля, Римской Империи, Османского владычества — порядка 27 культурных слоёв археологии! В пятнадцати минутах езды Вифлеем — место рождения Иисуса Христа, и Царя Давида. Святой еврейский город, мир арабских контрастов и место паломничества христиан всего мира.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5E84E5ANRV76\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Записаться</a> "
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "right"
+            },
+            ".mbr-section-title": {
+              "text-align": "right",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            }
+          },
+          "_anchor": "msg-box4-o",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/tel-aviv-promenade-1400x787.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Тель-Авив",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Космополитный Тель-Авив, называющий себя \"нон-стоп город\", одновременно является курортом и бесспорным центром развлечений, бизнеса и культуры Израиля. Моложе ста лет его центр древний городок Яффо, который и был основой создания Тель-Авива. Старый город Яффо, где есть галереи, рестораны, клубы, пабы, архитектурные и исторические памятники, привлекает миллионы туристов и местных жителей пройтись по его улочкам и Старой набережной.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5E84E5ANRV76\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Записаться</a> "
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            }
+          },
+          "_anchor": "msg-box4-p",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-1-1400x787.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Мёртвое Море",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Выезд на СПА Мёртвого моря — это уникальный случай комбинации отдыха, с лечебными процедурами и посещение одного из самых уникальных мест на планете! Вода и грязи Мёртвого Моря обладают целительными свойствами. Косметический эффект от воды и солей привёл к развитию отдельного направления в косметике, сделанной на основе солей мёртвого моря. Принимая грязевую процедуру, вы можете погрузиться в чтение книги на воде, или просто насладиться солнечным днём на берегу! Мёртвое море внесено в список семи не рукотворных чудес света.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=5JSE6Z28V9FPU\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Записаться</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "right"
+            },
+            ".mbr-section-title": {
+              "text-align": "right",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            }
+          },
+          "_anchor": "msg-box4-q",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/foto-robert-lg-053-1400x787.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Эйлат",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Эйлат является идеальным местом для занятий водными видами спорта! Подводное плавание и прыжки с парашютом (вы увидите четыре страны сразу!), путешествия на верблюдах или на джипах, мчаться по поверхности воды под парусом или кайте - решать вам! Вы можете провести день загорая на пляже или на палубе яхты! Посещение заповедника \"Хай Бар\" или археологического парка Тимна, хороший повод, чтобы исследовать природу и обитателей пустыни, увидеть его красоту и познать ощущение вечности мироздания. Окунуться в подводный мир Красного моря поможет подводная обсерватория и водный парк Красного моря в Эйлате.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5E84E5ANRV76\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Записаться</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            }
+          },
+          "_anchor": "msg-box4-r",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-1400x788.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Тверия",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Караванный путь благовоний внесён в 2005 г. в список ЮНЕСКО территории Израиля, где часть его пролегавшего через Петра, Авдат, Мамшит и далее в Газу находится в Северном Негеве. Увидеть красоту пустыни Негев невозможно не посетив Кратер Рамон и Авдат. В конце насыщенного дня мы посетим виноградник где вы сможете продегустировать несколько видов вина из разных сортов винограда, выращенных в Израильской пустыне!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5E84E5ANRV76\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Записаться</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "right"
+            },
+            ".mbr-section-title": {
+              "text-align": "right",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            }
+          },
+          "_anchor": "msg-box4-s",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-2-1400x787.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Эйлат Курортный",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Вы любите острые ощущения? Например, плавание в бассейне с акулами? Не беспокойтесь, если это не для вас, у нас есть еще один партнер по плаванью - дельфин! Дельфиний риф - отличное место, чтобы нырять и общаться с дельфинами, и не только! Посетите три бассейна с разной водой в одном месте: морская, пресная, и вода как в Мертвом море. Если вы любитель экстремальных видов спорта, то вам понравятся прыжки с парашютом, квадроциклы в пустыне или путешествие на джипах в горах Эйлата, а для особо любознательных туристов, предлагаем экскурсии на современную молочную ферму Йотвата и частную ферму по разведению крокодилов! В Эйлате круглый год светит солнце, так что хорошая погода вас гарантирована! Эйлат, это возможность познакомиться с новыми и интересными людьми из разных частей света! Вечером вы можете отдохнуть в ресторане, кафе или баре на берегу Красного моря, и ощутить еще один незабываемый день в Эйлате!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5E84E5ANRV76\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Записаться</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            }
+          },
+          "_anchor": "form1-t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#f1c050",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Свяжитесь с нами!",
+          "form": {
+            "action": "rainesh2002@hotmail.com",
+            "alerts": {
+              "success": "Ваше сообщение успешно отправлено!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Имя*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "contacts2-m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "TRAVEL NATION ISRAEL, Eilat, Habaz 2 Israel, 8851037",
+              "placeId": "ChIJd782TPZxABUR9W7AkZliC4A",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br>TRAVEL NATION ISRAEL, Eilat, Habaz 2 Israel, 8851037<br>Часы работы&nbsp;<br>Воскресенье - Четверг: 09:00 - 20:00 \n<br>Пятница: 09:00 - 16:00 \n<br>Суббота: 12:00 - 20:00<br><br><b>Телефоны</b><br>Israel +972 (0) 86199765; <br>Poland +48-22-125-3191; <br>Russia: +7-499-609-1512; <br>FAX: +972 (0) 89188043; <br>E-mail/Skype: tn.isr@outlook.com; WhatsApp/Mobile: +972586907505;<br>",
+          "text2": "<ul><li><b>Ссылки</b></li><li><a href=\"http://yhukho.com\" target=\"_blank\">Travel Nation Israel</a></li><li><a href=\"https://polin4you.com\" target=\"_blank\">Polin4You</a></li><li><a href=\"https://www.facebook.com/travelnationisrael/\" target=\"_blank\">Facebook</a></li></ul>"
+        }
+      ]
+    }
+  }
+}
